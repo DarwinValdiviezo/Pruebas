@@ -34,7 +34,13 @@ git clone https://github.com/DarwinValdiviezo/Pruebas.git
 
 ### Navega al directorio backend e instala las dependencias:
 
-cd Pruebas/backend
+cd Backend
+npm install
+
+cd Frontend
+npm install
+
+cd Admin
 npm install
 
 #### Crea un archivo .env en el directorio backend y añade las siguientes variables de entorno:
